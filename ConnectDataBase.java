@@ -6,7 +6,7 @@ public class ConnectDataBase {
 
     private String sqlUrl = "jdbc:mysql://localhost:3306/mobiley";
     private String userName = "root";
-    private String passWord = "123456";
+    private String passWord = "****";// type your password here !
     private Connection con;
     private Statement statement;
 
